@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    color: rgb(22, 58, 40);
+}
+
+table{
+    width:  80%;
+    margin: auto;
+    font-size: 1.5em;
+    border: 3px double rgb(67, 70, 35);
+}
+
+td{
+    border-bottom: 1px solid rgb(59, 63, 24);
+    padding:5px;
+}
+
+th{
+    border: 3px dotted rgb(219, 177, 38);
+    color: rgb(158, 136, 13);
+}
